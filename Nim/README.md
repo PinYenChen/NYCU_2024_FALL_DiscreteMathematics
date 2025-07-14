@@ -25,9 +25,9 @@ If player $A$ starts the game, determine whether they have a **winning strategy*
 
 ## Input Format
 
-- 第一行是一個正整數 $T$，表示接下來有 $T$ 組測資。$(1 \leq T \leq 100)$  
+- 第一行是一個正整數 $T$，表示接下來有 $T$ 組測資 $(1 \leq T \leq 100)$  
 - 每組測資接下來三行：
-  - 第一行為兩個整數 $n, m$，表示初始石子數與可選步數集合大小。$(1 \leq n \leq 5000), (1 \leq m < 500)$
+  - 第一行為兩個整數 $n, m$，表示初始石子數與可選步數集合大小 $(1 \leq n \leq 5000),  (1 \leq m < 500)$
   - 第二行包含 $m$ 個正整數，表示玩家 $A$ 可移除的石子數量 $a_1, \cdots, a_m$
   - 第三行包含 $m$ 個正整數，表示玩家 $B$ 可移除的石子數量 $b_1, \cdots, b_m$
 
