@@ -53,7 +53,3 @@ $$
 - For each test case, output a single line containing an integer that represents the number of sequences satisfying the given condition.
 
 ---
-
-## Example
-
-### Input
